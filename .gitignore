@@ -1,0 +1,5 @@
+vendor
+application/cache/*
+!application/cache/.htaccess
+selenium/*.jar
+selenium/chromedriver
